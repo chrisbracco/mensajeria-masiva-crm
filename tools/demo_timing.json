@@ -1,0 +1,309 @@
+{
+ "dur": 72300,
+ "capitulos": [
+  {
+   "ini": 0,
+   "titulo": "Sale la campaña"
+  },
+  {
+   "ini": 4530,
+   "titulo": "Alguien responde"
+  },
+  {
+   "ini": 13428,
+   "titulo": "Te atiende una persona"
+  },
+  {
+   "ini": 38978,
+   "titulo": "Se cierra la venta"
+  },
+  {
+   "ini": 57506,
+   "titulo": "Vuelve a comprar"
+  }
+ ],
+ "mensajes": [
+  {
+   "t": 600,
+   "cap": 1,
+   "quien": "camp",
+   "texto": "Hola, Ana. Esta semana tienes 20% en tu próxima compra. Responde 1 para ver qué entra o 2 para hablar con alguien. BAJA para no recibir más."
+  },
+  {
+   "t": 5130,
+   "cap": 2,
+   "quien": "ana",
+   "texto": "1"
+  },
+  {
+   "t": 6280,
+   "cap": 2,
+   "quien": "auto",
+   "texto": "¡Listo! Esto es lo que entra en la promo: tunegocio.com/promo. Si algo te gusta, respóndeme aquí."
+  },
+  {
+   "t": 9314,
+   "cap": 2,
+   "quien": "ana",
+   "texto": "me gusta el segundo. lo tienen en otro color?"
+  },
+  {
+   "t": 11104,
+   "cap": 2,
+   "quien": "auto",
+   "texto": "Buena pregunta para Laura. Ya te la paso, te escribe en un momento."
+  },
+  {
+   "t": 14028,
+   "cap": 3,
+   "quien": "laura",
+   "texto": "Hola, Ana, soy Laura. Sí: lo tenemos en azul y en gris. ¿Cuál prefieres?"
+  },
+  {
+   "t": 16512,
+   "cap": 3,
+   "quien": "ana",
+   "texto": "azul. y si llevo dos, el descuento es para los dos?"
+  },
+  {
+   "t": 18634,
+   "cap": 3,
+   "quien": "laura",
+   "texto": "Sí, el 20% va en cada uno. Los dos te quedan en $72 en vez de $90."
+  },
+  {
+   "t": 20986,
+   "cap": 3,
+   "quien": "ana",
+   "texto": "perfecto. hacen envíos?"
+  },
+  {
+   "t": 27906,
+   "cap": 3,
+   "quien": "laura",
+   "texto": "Sí, a domicilio, o lo retiras en la tienda sin costo. ¿Qué te queda mejor?"
+  },
+  {
+   "t": 30434,
+   "cap": 3,
+   "quien": "ana",
+   "texto": "lo retiro el sábado"
+  },
+  {
+   "t": 31852,
+   "cap": 3,
+   "quien": "laura",
+   "texto": "Hecho. Te los aparto a tu nombre hasta el sábado. ¿Cómo prefieres pagar?"
+  },
+  {
+   "t": 34336,
+   "cap": 3,
+   "quien": "ana",
+   "texto": "transferencia"
+  },
+  {
+   "t": 35686,
+   "cap": 3,
+   "quien": "laura",
+   "texto": "Te paso los datos en el siguiente mensaje. Cuando pagues, mándame el número de referencia y lo dejo confirmado."
+  },
+  {
+   "t": 39578,
+   "cap": 4,
+   "quien": "ana",
+   "texto": "listo, ya transferí. referencia 004821"
+  },
+  {
+   "t": 41414,
+   "cap": 4,
+   "quien": "laura",
+   "texto": "¡Recibido, Ana! Pedido confirmado: 2 unidades en azul, $72, retiro el sábado."
+  },
+  {
+   "t": 44008,
+   "cap": 4,
+   "quien": "ana",
+   "texto": "gracias Laura!!"
+  },
+  {
+   "t": 45358,
+   "cap": 4,
+   "quien": "laura",
+   "texto": "A ti. El sábado en la mañana te escribimos para recordártelo."
+  },
+  {
+   "t": 48150,
+   "cap": 4,
+   "quien": "auto",
+   "texto": "Hola, Ana. Tu pedido ya está listo para retirar hoy, de 9 a 6. Te esperamos."
+  },
+  {
+   "t": 50722,
+   "cap": 4,
+   "quien": "ana",
+   "texto": "paso a las 11"
+  },
+  {
+   "t": 52072,
+   "cap": 4,
+   "quien": "laura",
+   "texto": "Perfecto, te lo dejo en caja a tu nombre."
+  },
+  {
+   "t": 53874,
+   "cap": 4,
+   "quien": "ana",
+   "texto": "ya lo tengo, quedó divino"
+  },
+  {
+   "t": 55424,
+   "cap": 4,
+   "quien": "laura",
+   "texto": "¡Qué alegría! Cualquier cosa, escríbenos por aquí mismo."
+  },
+  {
+   "t": 58106,
+   "cap": 5,
+   "quien": "camp",
+   "texto": "Hola, Ana. Llegó lo nuevo y nuestros clientes lo ven primero. Responde 1 para verlo o 2 para hablar con Laura. BAJA para no recibir más."
+  },
+  {
+   "t": 61998,
+   "cap": 5,
+   "quien": "ana",
+   "texto": "2"
+  },
+  {
+   "t": 63148,
+   "cap": 5,
+   "quien": "auto",
+   "texto": "Te paso con Laura, que ya te conoce."
+  },
+  {
+   "t": 64940,
+   "cap": 5,
+   "quien": "laura",
+   "texto": "¡Hola otra vez, Ana! ¿Te muestro lo nuevo en azul, como la vez pasada?"
+  },
+  {
+   "t": 67380,
+   "cap": 5,
+   "quien": "ana",
+   "texto": "sí! mándame lo que tengas"
+  }
+ ],
+ "dias": {
+  "6:02 p. m.": 0,
+  "9:00 a. m.": 47550,
+  "6:00 p. m.": 57506
+ },
+ "espera": {
+  "caja": 21686,
+  "pasos": [
+   22356,
+   22576,
+   22796,
+   23016,
+   23236,
+   23456,
+   23676,
+   23896,
+   24116,
+   24336,
+   24556,
+   24776,
+   24996,
+   25216,
+   25436
+  ],
+  "alerta": 25556
+ },
+ "registro": [
+  {
+   "t": 900,
+   "hora": "18:02",
+   "texto": "Campaña \"Promo de la semana\" enviada a 100 clientes."
+  },
+  {
+   "t": 3200,
+   "hora": "18:03",
+   "texto": "95 entregados."
+  },
+  {
+   "t": 6280,
+   "hora": "18:04",
+   "texto": "Ana respondió 1: se le envió la promo automáticamente."
+  },
+  {
+   "t": 11104,
+   "hora": "18:05",
+   "texto": "Pidió una persona: asignada a Laura."
+  },
+  {
+   "t": 14028,
+   "hora": "18:09",
+   "texto": "Laura tomó la conversación con el resumen a la vista."
+  },
+  {
+   "t": 16512,
+   "hora": "18:10",
+   "texto": "Le interesan 2 unidades en azul."
+  },
+  {
+   "t": 25556,
+   "hora": "18:26",
+   "texto": "15 minutos sin respuesta: te avisamos."
+  },
+  {
+   "t": 31852,
+   "hora": "18:28",
+   "texto": "Laura apartó 2 unidades: pasa a En atención."
+  },
+  {
+   "t": 38978,
+   "hora": "19:02",
+   "texto": "10 respondieron en la primera hora."
+  },
+  {
+   "t": 39578,
+   "hora": "19:31",
+   "texto": "Ana envió la referencia de pago."
+  },
+  {
+   "t": 41414,
+   "hora": "19:33",
+   "texto": "Pago recibido. Venta: $72."
+  },
+  {
+   "t": 48150,
+   "hora": "Sáb 09:00",
+   "texto": "Recordatorio de retiro enviado."
+  },
+  {
+   "t": 53874,
+   "hora": "Sáb 11:20",
+   "texto": "Pedido retirado en la tienda."
+  },
+  {
+   "t": 56824,
+   "hora": "Sáb 18:00",
+   "texto": "Grupo \"Compraron en la promo\": 3 clientes."
+  },
+  {
+   "t": 58406,
+   "hora": "18:00",
+   "texto": "Campaña \"Novedades\" enviada a 100."
+  },
+  {
+   "t": 63148,
+   "hora": "18:03",
+   "texto": "Ana respondió: vuelve con Laura, ya la atendió antes."
+  },
+  {
+   "t": 64940,
+   "hora": "18:05",
+   "texto": "Laura le muestra lo nuevo en azul."
+  }
+ ],
+ "keyframes": 162
+}
